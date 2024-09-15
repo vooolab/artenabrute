@@ -27,6 +27,7 @@ python3 atrenabrute.py --help</pre>
 
 <h3>Kullanım</h3>
 <pre>python atrenabrute.py --mail [mail adresi] -w [Wordlist Yolu]</pre>
+
 - `-m/--mail` Mail adresini belirtin.
 - `-w/--wordlist` Wordlist belirtin.
 - `-oc/--oc` Kaç tanede bir çıktı almak istiyorsunuz? Örneğin `-oc 100` her 100 denemede sizi bilgilendirir.
