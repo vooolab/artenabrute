@@ -1,3 +1,5 @@
+Not: Araç teknik sebeplerden ötürü çaalışmamaktadır. En kısa süre içerisinde gerekli düzeltmeler yapılacaktır.
+
 <div align="center">
   <img src="https://artensatokenmarket.com/public/front/fxyatirim/assets/images/logo.png?r=1638395910" style="width: 350px;"/>
 </div>
