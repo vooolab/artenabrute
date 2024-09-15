@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vooolab/voscan/main/git-images/banner.jpeg" style="width: 350px;"/>
+  <img src="https://artensatokenmarket.com/public/front/fxyatirim/assets/images/logo.png?r=1638395910" style="width: 350px;"/>
 </div>
 
 <h1 align="center">
