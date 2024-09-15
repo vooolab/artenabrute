@@ -13,14 +13,14 @@ Kurulum
 <b>Termux</b>
 <pre>pkg install python
 git clone https://github.com/vooolab/artenabrute/
-cd voscan
+cd artenabrute
 python setup.py
 python atrenabrute.py --help</pre>
 <b>Linux Dağıtımları</b>
 <pre>sudo apt-get update
 sudo apt-get install python3 python3-pip
 git clone https://github.com/vooolab/atrenabrute/
-cd voscan
+cd artenabrute
 python3 setup.py
 python3 atrenabrute.py --help</pre>
 <b>
