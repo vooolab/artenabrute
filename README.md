@@ -40,7 +40,7 @@ Not: Eğer Wordlist dosyanız yoksa "-d df" yazarak default olarak voscan wordli
 Ekran Görüntüsü
 </h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vooolab/voscan/main/git-images/ss1.png"/>
+  <img src="https://raw.githubusercontent.com/vooolab/artenabrute/main/IMG_20240915_035533.jpg"/>
 </div>
 
 <h2 align="center">
