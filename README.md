@@ -34,10 +34,6 @@ python3 atrenabrute.py --help</pre>
 - `-w/--wordlist` Wordlist belirtin.
 - `-oc/--oc` Kaç tanede bir çıktı almak istiyorsunuz? Örneğin `-oc 100` her 100 denemede sizi bilgilendirir.
 
-Örnek:
-<pre>python voscan.py -u www.mudp.gov.bd -d df</pre>
-Not: Eğer Wordlist dosyanız yoksa "-d df" yazarak default olarak voscan wordlistini belirtebilirsiniz.
-
 <h2 align="center">
 Ekran Görüntüsü
 </h2>
