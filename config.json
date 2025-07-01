@@ -1,0 +1,114 @@
+{
+  "platform": {
+    "name": "TikTok Video Generator",
+    "version": "1.0.0",
+    "description": "Automated 365-day TikTok video generation platform"
+  },
+  "video_settings": {
+    "resolution": {
+      "width": 1080,
+      "height": 1920
+    },
+    "fps": 30,
+    "duration": 60,
+    "format": "mp4",
+    "codec": "libx264",
+    "bitrate": "2000k"
+  },
+  "content": {
+    "language": "tr",
+    "categories": [
+      "motivasyon",
+      "bilim",
+      "teknoloji",
+      "tarih",
+      "sağlık",
+      "psikoloji",
+      "doğa",
+      "eğitim",
+      "girişimcilik",
+      "yaşam_hikayeleri"
+    ],
+    "daily_themes": {
+      "monday": "motivasyon",
+      "tuesday": "bilim",
+      "wednesday": "teknoloji",
+      "thursday": "tarih",
+      "friday": "sağlık",
+      "saturday": "psikoloji",
+      "sunday": "yaşam_hikayeleri"
+    }
+  },
+  "text_to_speech": {
+    "engine": "gTTS",
+    "language": "tr",
+    "slow": false,
+    "fallback_engine": "pyttsx3",
+    "voice_speed": 200
+  },
+  "visual": {
+    "background_styles": [
+      "gradient",
+      "geometric",
+      "abstract"
+    ],
+    "text_styles": {
+      "font_family": "Arial",
+      "font_size": 60,
+      "font_color": "white",
+      "outline_color": "black",
+      "outline_width": 2
+    },
+    "colors": {
+      "primary": "#FF6B6B",
+      "secondary": "#4ECDC4",
+      "accent": "#45B7D1",
+      "background": "#2C3E50",
+      "text": "#FFFFFF"
+    }
+  },
+  "generation": {
+    "total_videos": 365,
+    "concurrent_limit": 3,
+    "output_directory": "generated_videos",
+    "temp_directory": "temp",
+    "backup_directory": "backups"
+  },
+  "export": {
+    "formats": ["mp4"],
+    "quality": "high",
+    "compression": "medium",
+    "include_metadata": true,
+    "generate_thumbnails": true
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "tiktok_generator.log",
+    "max_size": "10MB",
+    "backup_count": 5
+  },
+  "social_media": {
+    "hashtags": {
+      "motivasyon": ["#motivasyon", "#başarı", "#hedef", "#ilham", "#güçlü"],
+      "bilim": ["#bilim", "#keşif", "#araştırma", "#teknoloji", "#yenilik"],
+      "teknoloji": ["#teknoloji", "#yapayZeka", "#gelecek", "#inovasyon", "#dijital"],
+      "tarih": ["#tarih", "#geçmiş", "#kültür", "#miras", "#hikaye"],
+      "sağlık": ["#sağlık", "#wellness", "#fitness", "#yaşam", "#beslenme"],
+      "psikoloji": ["#psikoloji", "#zihin", "#gelişim", "#farkındalık", "#mental"],
+      "doğa": ["#doğa", "#çevre", "#yeşil", "#sürdürülebilir", "#gezegen"],
+      "eğitim": ["#eğitim", "#öğrenme", "#bilgi", "#gelişim", "#beceri"],
+      "girişimcilik": ["#girişimcilik", "#iş", "#başarı", "#liderlik", "#kariyer"],
+      "yaşam_hikayeleri": ["#hikaye", "#yaşam", "#deneyim", "#ilham", "#motivasyon"]
+    },
+    "trending_keywords": [
+      "viral",
+      "trend",
+      "keşfet",
+      "fyp",
+      "türkiye",
+      "2024",
+      "gündem",
+      "popüler"
+    ]
+  }
+}
